@@ -1,4 +1,5 @@
 # Myntra-clone-website
-i want to try making myntra's website using html,css,js,php,mysql
+I want to try making a Myntra-like website using HTML, CSS, JavaScript, PHP, and MySQL.
+
 <br> 
 Developer Name: Amaan Khan
